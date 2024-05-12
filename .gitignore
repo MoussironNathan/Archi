@@ -3,5 +3,5 @@
 /yam-project/backend/node_modules/
 
 # Ignore IDE
-/yam-project/.vscode/
-/yam-project/.idea/
+/yam-project/.vscode
+/yam-project/.idea
